@@ -2,7 +2,7 @@
   "name": "my-awesome-app",
   "version": "0.1.0",
   "private": true,
-  "author": "Andre Staltz",
+  "author": "Jarl André Hübenthal",
   "license": "MIT",
   "dependencies": {
     "@cycle/run": "^3.2.0",
