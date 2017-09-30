@@ -5,9 +5,10 @@
   "author": "Jarl André Hübenthal",
   "license": "MIT",
   "dependencies": {
-    "@cycle/run": "^3.2.0",
     "@cycle/dom": "^18.3.0",
+    "@cycle/http": "^14.3.0",
     "@cycle/isolate": "3.1",
+    "@cycle/run": "^3.2.0",
     "xstream": "11.0.0"
   },
   "devDependencies": {
