@@ -25,6 +25,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prebrowserify": "mkdirp public && tsc",
     "browserify": "browserify lib/index.js -t babelify --outfile public/main.js",
-    "start": "npm install && npm run browserify && echo 'OPEN index.html IN YOUR BROWSER'"
+    "build": "npm install && npm run browserify && echo 'OPEN index.html IN YOUR BROWSER'"
   }
 }

@@ -1,5 +1,10 @@
 # cycleapp
 
+## Build
+```
+npm run build
+```
+
 ## Start
 ```
 npm i -g json-server
