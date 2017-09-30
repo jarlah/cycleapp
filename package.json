@@ -1,6 +1,6 @@
 {
-  "name": "my-awesome-app",
-  "version": "0.1.0",
+  "name": "cycleapp",
+  "version": "0.0.0-development",
   "private": true,
   "author": "Jarl André Hübenthal",
   "license": "MIT",
